@@ -163,7 +163,7 @@ footer .container {
   cursor: pointer;
 }
 
-footer > .container i {
+footer > .container > i {
   color: #000;
   margin-left: 18px;
   padding: 5px;
