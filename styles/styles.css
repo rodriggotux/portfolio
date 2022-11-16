@@ -161,6 +161,7 @@ footer .container {
   flex-wrap: wrap;
   margin-left: 10px;
   cursor: pointer;
+  margin-left: 18px;
 }
 
 footer > .container > i {
